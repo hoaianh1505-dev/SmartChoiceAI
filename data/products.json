@@ -1,0 +1,577 @@
+{
+  "disclaimer": "Giá và thông số là dữ liệu mẫu, không phải thông tin thị trường thời gian thực.",
+  "products": [
+    {
+      "id": "lap_01",
+      "name": "Acer Aspire 3 A315",
+      "category": "laptop",
+      "brand": "Acer",
+      "price_vnd": 11490000,
+      "specifications": {
+        "cpu": "Intel Core i3-1215U (6 nhân 8 luồng)",
+        "ram": "8GB DDR4 3200MHz",
+        "ssd": "512GB PCIe NVMe SSD",
+        "gpu": "Intel UHD Graphics",
+        "screen": "15.6 inch FHD (1920x1080) 60Hz",
+        "battery": "40Wh (khoảng 4-5 giờ)"
+      },
+      "strengths": [
+        "Giá thành rẻ, dễ tiếp cận cho học sinh sinh viên",
+        "Bộ nhớ SSD 512GB rộng rãi trong tầm giá",
+        "Bàn phím full-size có cụm số tiện nhập liệu"
+      ],
+      "weaknesses": [
+        "Vỏ nhựa, độ hoàn thiện ở mức cơ bản",
+        "Hiệu năng CPU i3 chỉ thích hợp văn phòng, lướt web, học tập cơ bản",
+        "Màn hình độ sáng trung bình 220 nits"
+      ]
+    },
+    {
+      "id": "lap_02",
+      "name": "Lenovo IdeaPad Slim 3 14IAH8",
+      "category": "laptop",
+      "brand": "Lenovo",
+      "price_vnd": 13990000,
+      "specifications": {
+        "cpu": "Intel Core i5-12450H (8 nhân 12 luồng)",
+        "ram": "16GB LPDDR5 4800MHz",
+        "ssd": "512GB PCIe NVMe M.2",
+        "gpu": "Intel UHD Graphics",
+        "screen": "14 inch FHD (1920x1080) IPS 300 nits",
+        "battery": "47Wh (khoảng 5-6 giờ)"
+      },
+      "strengths": [
+        "CPU dòng H hiệu năng cao vượt trội tầm giá, chạy mượt code lập trình",
+        "Sẵn 16GB RAM LPDDR5 tốc độ cao, đa nhiệm tốt",
+        "Màn hình tấm nền IPS 300 nits góc nhìn rộng"
+      ],
+      "weaknesses": [
+        "Không có card đồ họa rời, chơi game 3D nặng bị hạn chế",
+        "RAM hàn onboard không nâng cấp thêm được"
+      ]
+    },
+    {
+      "id": "lap_03",
+      "name": "ASUS Vivobook 15 X1504VA",
+      "category": "laptop",
+      "brand": "ASUS",
+      "price_vnd": 15490000,
+      "specifications": {
+        "cpu": "Intel Core i5-1335U (10 nhân 12 luồng)",
+        "ram": "16GB DDR4 3200MHz",
+        "ssd": "512GB NVMe PCIe 4.0",
+        "gpu": "Intel Iris Xe Graphics",
+        "screen": "15.6 inch FHD (1920x1080) Anti-glare",
+        "battery": "42Wh (khoảng 5 giờ)"
+      },
+      "strengths": [
+        "Thiết kế thanh lịch, bản lề mở 180 độ linh hoạt",
+        "Độ bền chuẩn quân đội MIL-STD-810H",
+        "Cảm biến vân tay 1 chạm bảo mật nhanh"
+      ],
+      "weaknesses": [
+        "Dung lượng pin 42Wh chỉ ở mức vừa phải",
+        "Màu sắc màn hình ở mức 45% NTSC, chưa tối ưu cho đồ họa chuyên nghiệp"
+      ]
+    },
+    {
+      "id": "lap_04",
+      "name": "HP Pavilion 15-eg3093TU",
+      "category": "laptop",
+      "brand": "HP",
+      "price_vnd": 17890000,
+      "specifications": {
+        "cpu": "Intel Core i5-1335U (10 nhân 12 luồng)",
+        "ram": "16GB DDR4 (2x8GB)",
+        "ssd": "512GB PCIe NVMe SSD",
+        "gpu": "Intel Iris Xe Graphics",
+        "screen": "15.6 inch FHD IPS BrightView",
+        "battery": "41Wh (khoảng 5-6 giờ)"
+      },
+      "strengths": [
+        "Vỏ nhôm sang trọng, thiết kế cao cấp",
+        "Hệ thống loa B&O cho chất âm trong trẻo",
+        "Bàn phím gõ êm, có đèn nền tiện làm việc ban đêm"
+      ],
+      "weaknesses": [
+        "Thời lượng pin trung bình khi chạy tác vụ nặng",
+        "Quạt tản nhiệt hơi ồn khi máy hoạt động tải cao"
+      ]
+    },
+    {
+      "id": "lap_05",
+      "name": "MSI Thin GF63 12VE",
+      "category": "laptop",
+      "brand": "MSI",
+      "price_vnd": 18490000,
+      "specifications": {
+        "cpu": "Intel Core i5-12450H (8 nhân 12 luồng)",
+        "ram": "16GB DDR4 3200MHz",
+        "ssd": "512GB NVMe PCIe Gen4",
+        "gpu": "NVIDIA GeForce RTX 4050 6GB GDDR6",
+        "screen": "15.6 inch FHD 144Hz IPS-Level",
+        "battery": "52.4Wh (khoảng 3-4 giờ)"
+      },
+      "strengths": [
+        "Card đồ họa RTX 4050 chiến tốt game nặng và render video, học AI/ML cơ bản",
+        "Màn hình tần số quét 144Hz mượt mà",
+        "Trọng lượng chỉ 1.86kg khá nhẹ so với laptop gaming"
+      ],
+      "weaknesses": [
+        "Hệ thống tản nhiệt 1 quạt nhiệt độ có thể hơi cao khi chơi game liên tục",
+        "Thời lượng pin ngắn khi không cắm sạc",
+        "Màu màn hình khoảng 45% NTSC"
+      ]
+    },
+    {
+      "id": "lap_06",
+      "name": "ASUS TUF Gaming A15 FA506NF",
+      "category": "laptop",
+      "brand": "ASUS",
+      "price_vnd": 19490000,
+      "specifications": {
+        "cpu": "AMD Ryzen 5 7535HS (6 nhân 12 luồng)",
+        "ram": "16GB DDR5 4800MHz",
+        "ssd": "512GB PCIe 4.0 NVMe",
+        "gpu": "NVIDIA GeForce RTX 2050 4GB GDDR6",
+        "screen": "15.6 inch FHD 144Hz IPS vIPS",
+        "battery": "48Wh (khoảng 4 giờ)"
+      },
+      "strengths": [
+        "Độ bền đạt chuẩn quân đội, tản nhiệt 2 quạt 4 ống đồng hiệu quả",
+        "RAM DDR5 thế hệ mới tốc độ vượt trội",
+        "Bàn phím RGB có đèn nền, cảm giác gõ tốt"
+      ],
+      "weaknesses": [
+        "GPU RTX 2050 yếu hơn RTX 4050 cùng tầm giá",
+        "Cân nặng 2.3kg khá đầm tay khi mang vác hàng ngày"
+      ]
+    },
+    {
+      "id": "lap_07",
+      "name": "Dell Inspiron 16 5630",
+      "category": "laptop",
+      "brand": "Dell",
+      "price_vnd": 23990000,
+      "specifications": {
+        "cpu": "Intel Core i7-1360P (12 nhân 16 luồng)",
+        "ram": "16GB LPDDR5 4800MHz",
+        "ssd": "1TB PCIe NVMe SSD",
+        "gpu": "Intel Iris Xe Graphics",
+        "screen": "16.0 inch FHD+ 16:10 (1920x1200) WVA",
+        "battery": "54Wh (khoảng 6-7 giờ)"
+      },
+      "strengths": [
+        "Màn hình tỉ lệ 16:10 hiển thị nhiều dòng code và bảng tính",
+        "Dung lượng lưu trữ khủng 1TB SSD",
+        "Vỏ nhôm nguyên khối bền bỉ, sang trọng đậm chất doanh nhân"
+      ],
+      "weaknesses": [
+        "Giá trên 20 triệu, không có GPU rời cho game thủ",
+        "Kích thước 16 inch hơi to với balo nhỏ"
+      ]
+    },
+    {
+      "id": "lap_08",
+      "name": "Apple MacBook Air 13 M2 (2022)",
+      "category": "laptop",
+      "brand": "Apple",
+      "price_vnd": 24990000,
+      "specifications": {
+        "cpu": "Apple M2 (8 nhân CPU, 8 nhân GPU)",
+        "ram": "8GB Unified Memory",
+        "ssd": "256GB SSD siêu tốc",
+        "gpu": "Apple M2 8-core GPU",
+        "screen": "13.6 inch Liquid Retina (2560x1664) 500 nits True Tone",
+        "battery": "52.6Wh (lên đến 15-18 giờ thực tế)"
+      },
+      "strengths": [
+        "Thời lượng pin kỷ lục cả ngày không cần sạc",
+        "Màn hình Liquid Retina sắc nét chuẩn màu thiết kế đồ họa",
+        "Trọng lượng siêu nhẹ 1.24kg, vỏ nhôm Unibody đẳng cấp"
+      ],
+      "weaknesses": [
+        "Giá cao, phiên bản cơ sở chỉ có 8GB RAM và 256GB SSD",
+        "Cổng kết nối hạn chế (chỉ 2 cổng Thunderbolt / USB 4)"
+      ]
+    },
+    {
+      "id": "phone_01",
+      "name": "Xiaomi Redmi 13C",
+      "category": "điện thoại",
+      "brand": "Xiaomi",
+      "price_vnd": 3090000,
+      "specifications": {
+        "chipset": "MediaTek Helio G85",
+        "ram": "6GB (+ mở rộng ảo)",
+        "storage": "128GB (hỗ trợ thẻ nhớ microSD)",
+        "camera": "Chính 50MP + Phụ 2MP | Selfie 8MP",
+        "battery": "5000 mAh, sạc 18W",
+        "screen": "6.74 inch HD+ 90Hz IPS LCD"
+      },
+      "strengths": [
+        "Giá siêu rẻ, pin trâu 5000 mAh dùng thoải mái 1.5 ngày",
+        "Màn hình lớn 6.74 inch tần số quét 90Hz mượt mà",
+        "Hỗ trợ jack tai nghe 3.5mm và khay thẻ nhớ tiện lợi"
+      ],
+      "weaknesses": [
+        "Độ phân giải màn hình chỉ là HD+ nên chi tiết không quá sắc nét",
+        "Hiệu năng Helio G85 chỉ đủ dùng mạng xã hội và game nhẹ",
+        "Tốc độ sạc 18W cần hơn 2 giờ để đầy pin"
+      ]
+    },
+    {
+      "id": "phone_02",
+      "name": "Samsung Galaxy A15 LTE",
+      "category": "điện thoại",
+      "brand": "Samsung",
+      "price_vnd": 4690000,
+      "specifications": {
+        "chipset": "MediaTek Helio G99 (6nm)",
+        "ram": "8GB",
+        "storage": "128GB",
+        "camera": "Chính 50MP + Góc rộng 5MP + Macro 2MP | Selfie 13MP",
+        "battery": "5000 mAh, sạc nhanh 25W",
+        "screen": "6.5 inch Super AMOLED FHD+ 90Hz 800 nits"
+      },
+      "strengths": [
+        "Màn hình Super AMOLED rực rỡ, độ sáng cao 800 nits xem tốt ngoài trời",
+        "Cam kết hỗ trợ cập nhật 4 năm hệ điều hành Android",
+        "Chip Helio G99 tiến trình 6nm tiết kiệm pin, hiệu năng ổn định"
+      ],
+      "weaknesses": [
+        "Viền màn hình dạng giọt nước hơi dày ở cạnh đáy",
+        "Không kèm củ sạc nhanh trong hộp máy"
+      ]
+    },
+    {
+      "id": "phone_03",
+      "name": "Xiaomi Redmi Note 13",
+      "category": "điện thoại",
+      "brand": "Xiaomi",
+      "price_vnd": 4890000,
+      "specifications": {
+        "chipset": "Snapdragon 685 (6nm)",
+        "ram": "8GB",
+        "storage": "128GB",
+        "camera": "Chính 108MP + Siêu rộng 8MP + Macro 2MP | Selfie 16MP",
+        "battery": "5000 mAh, sạc nhanh 33W",
+        "screen": "6.67 inch AMOLED FHD+ 120Hz 1800 nits"
+      },
+      "strengths": [
+        "Camera khủng 108MP chụp ảnh sắc nét, màu sắc chi tiết",
+        "Màn hình viền siêu mỏng AMOLED 120Hz độ sáng đỉnh 1800 nits",
+        "Sạc nhanh 33W tặng kèm củ sạc trong hộp"
+      ],
+      "weaknesses": [
+        "Chip Snapdragon 685 ở mức cơ bản, không hỗ trợ mạng 5G",
+        "Giao diện HyperOS đôi khi còn một vài ứng dụng rác cài sẵn"
+      ]
+    },
+    {
+      "id": "phone_04",
+      "name": "Samsung Galaxy A55 5G",
+      "category": "điện thoại",
+      "brand": "Samsung",
+      "price_vnd": 9690000,
+      "specifications": {
+        "chipset": "Exynos 1480 (4nm) đồ họa AMD Xclipse 530",
+        "ram": "8GB",
+        "storage": "128GB",
+        "camera": "Chính 50MP OIS + Góc siêu rộng 12MP + Macro 5MP | Selfie 32MP",
+        "battery": "5000 mAh, sạc nhanh 25W",
+        "screen": "6.6 inch Super AMOLED FHD+ 120Hz HDR10+ 1000 nits"
+      },
+      "strengths": [
+        "Khung viền kim loại cao cấp kèm khả năng chống nước chuẩn IP67",
+        "Camera chính có chống rung quang học OIS chụp đêm ấn tượng",
+        "Pin 5000 mAh trâu, bảo mật Samsung Knox Vault hàng đầu"
+      ],
+      "weaknesses": [
+        "Cân nặng máy 213g hơi đầm tay, viền màn hình hơi dày",
+        "Tốc độ sạc dừng ở 25W chưa nhanh bằng đối thủ Trung Quốc"
+      ]
+    },
+    {
+      "id": "phone_05",
+      "name": "Xiaomi 13T 5G",
+      "category": "điện thoại",
+      "brand": "Xiaomi",
+      "price_vnd": 10990000,
+      "specifications": {
+        "chipset": "MediaTek Dimensity 8200-Ultra (4nm)",
+        "ram": "12GB LPDDR5",
+        "storage": "256GB UFS 3.1",
+        "camera": "Ống kính LEICA: Chính 50MP OIS + Tele 50MP (zoom 2x) + Góc rộng 12MP | Selfie 20MP",
+        "battery": "5000 mAh, sạc nhanh 67W",
+        "screen": "6.67 inch CrystalRes AMOLED 144Hz 2600 nits Dolby Vision"
+      },
+      "strengths": [
+        "Cụm camera Leica chuyên nghiệp có ống kính tele riêng biệt chụp chân dung xuất sắc",
+        "Màn hình 144Hz độ sáng cực khủng 2600 nits, kháng nước IP68",
+        "Sạc siêu tốc 67W chỉ mất khoảng 40 phút đầy pin"
+      ],
+      "weaknesses": [
+        "Mặt lưng bóng bám nhiều dấu vân tay",
+        "Camera trước chưa hỗ trợ quay video 4K"
+      ]
+    },
+    {
+      "id": "phone_06",
+      "name": "OPPO Reno11 Pro 5G",
+      "category": "điện thoại",
+      "brand": "OPPO",
+      "price_vnd": 13990000,
+      "specifications": {
+        "chipset": "MediaTek Dimensity 8200 (4nm)",
+        "ram": "12GB",
+        "storage": "512GB",
+        "camera": "Chính 50MP Sony IMX890 OIS + Chân dung 32MP Sony IMX709 + Góc rộng 8MP | Selfie 32MP AF",
+        "battery": "4600 mAh, sạc siêu nhanh SuperVOOC 80W",
+        "screen": "6.7 inch OLED 3D cong 120Hz HDR10+ 950 nits"
+      },
+      "strengths": [
+        "Chuyên gia chân dung với cảm biến Sony IMX890 và thuật toán chân dung AI cực đỉnh",
+        "Sạc siêu nhanh 80W nạp 50% chỉ trong 10 phút",
+        "Thiết kế mỏng nhẹ 181g với màn hình cong tràn viền cuốn hút"
+      ],
+      "weaknesses": [
+        "Dung lượng pin 4600 mAh thấp hơn mặt bằng 5000 mAh",
+        "Không có chuẩn kháng nước bụi cao cấp IP68"
+      ]
+    },
+    {
+      "id": "phone_07",
+      "name": "Apple iPhone 15 128GB",
+      "category": "điện thoại",
+      "brand": "Apple",
+      "price_vnd": 18990000,
+      "specifications": {
+        "chipset": "Apple A16 Bionic (4nm)",
+        "ram": "6GB",
+        "storage": "128GB",
+        "camera": "Chính 48MP OIS Sensor-shift + Góc siêu rộng 12MP | Selfie 12MP TrueDepth",
+        "battery": "3349 mAh, sạc nhanh 20W",
+        "screen": "6.1 inch Super Retina XDR OLED 2000 nits Dynamic Island"
+      },
+      "strengths": [
+        "Tính năng Dynamic Island thông minh, thiết kế kính pha màu nhám tinh tế",
+        "Cổng sạc chuẩn USB-C tương thích chung tiện lợi",
+        "Camera 48MP chất lượng quay video và chụp ảnh màu sắc tự nhiên đỉnh cao"
+      ],
+      "weaknesses": [
+        "Màn hình chỉ hỗ trợ tần số quét 60Hz cơ bản",
+        "Tốc độ sạc tương đối chậm so với phân khúc cao cấp"
+      ]
+    },
+    {
+      "id": "phone_08",
+      "name": "Samsung Galaxy S24 Ultra 5G",
+      "category": "điện thoại",
+      "brand": "Samsung",
+      "price_vnd": 27990000,
+      "specifications": {
+        "chipset": "Snapdragon 8 Gen 3 for Galaxy (4nm)",
+        "ram": "12GB",
+        "storage": "256GB",
+        "camera": "Chính 200MP OIS + Tele 50MP (5x) + Tele 10MP (3x) + Siêu rộng 12MP | Selfie 12MP",
+        "battery": "5000 mAh, sạc nhanh 45W",
+        "screen": "6.8 inch Dynamic AMOLED 2X QHD+ 120Hz 2600 nits kính Gorilla Armor chống chói"
+      },
+      "strengths": [
+        "Bộ camera chụp zoom và nhiếp ảnh 200MP hàng đầu thế giới smartphone",
+        "Tích hợp bút S-Pen quyền năng và hệ sinh thái Galaxy AI đa dạng",
+        "Khung viền Titanium siêu bền cùng kính chống chói xuất sắc"
+      ],
+      "weaknesses": [
+        "Kích thước lớn và trọng lượng 232g khá nặng",
+        "Giá thành cao thuộc phân khúc siêu cao cấp"
+      ]
+    },
+    {
+      "id": "ear_01",
+      "name": "QCY T13 ANC",
+      "category": "tai nghe",
+      "brand": "QCY",
+      "price_vnd": 390000,
+      "specifications": {
+        "connection": "Bluetooth 5.3",
+        "anc": "Chống ồn chủ động ANC 28dB",
+        "battery_life": "7 giờ tai nghe, 30 giờ cùng hộp sạc",
+        "microphone": "4 micro lọc ồn đàm thoại ENC",
+        "latency": "Game Mode độ trễ thấp 68ms"
+      },
+      "strengths": [
+        "Giá siêu rẻ dưới 400k nhưng có chống ồn chủ động ANC",
+        "Thời lượng pin dài thoải mái dùng cả tuần",
+        "Hỗ trợ chỉnh EQ qua ứng dụng QCY tiện lợi"
+      ],
+      "weaknesses": [
+        "Chất lượng hoàn thiện hộp nhựa cơ bản",
+        "Chất âm thiên bass nhiều, dải treble chưa được trong trẻo",
+        "Khả năng chống ồn gió còn hạn chế"
+      ]
+    },
+    {
+      "id": "ear_02",
+      "name": "Baseus Bowie M2 Plus",
+      "category": "tai nghe",
+      "brand": "Baseus",
+      "price_vnd": 650000,
+      "specifications": {
+        "connection": "Bluetooth 5.2",
+        "anc": "Chống ồn chủ động ANC Hybrid -42dB",
+        "battery_life": "5 giờ (bật ANC), 30 giờ kèm dock sạc",
+        "microphone": "4 micro khử nhiễu AI",
+        "latency": "0.038 giây (Dual-channel low latency)"
+      },
+      "strengths": [
+        "Khả năng chống ồn Hybrid lên đến -42dB rất ấn tượng trong tầm giá rẻ",
+        "Hỗ trợ kết nối đồng thời 2 thiết bị",
+        "Độ trễ siêu thấp thích hợp chơi game và xem phim không lệch tiếng"
+      ],
+      "weaknesses": [
+        "Thời lượng pin khi bật ANC liên tục chỉ đạt khoảng 4.5 - 5 giờ",
+        "Ứng dụng đi kèm đôi khi kết nối chậm"
+      ]
+    },
+    {
+      "id": "ear_03",
+      "name": "Soundpeats Free2 Classic",
+      "category": "tai nghe",
+      "brand": "Soundpeats",
+      "price_vnd": 520000,
+      "specifications": {
+        "connection": "Bluetooth 5.1",
+        "anc": "Không có ANC (Cách âm thụ động)",
+        "battery_life": "8 giờ tai nghe, 30 giờ với hộp sạc",
+        "microphone": "Micro phủ lưới chống gió chống bụi",
+        "latency": "Khoảng 80ms"
+      },
+      "strengths": [
+        "Thiết kế hộp vân da cổ điển sang trọng, chống bám vân tay",
+        "Chất âm cân bằng, dải bass chắc khỏe, âm trường thoáng",
+        "Thời lượng pin 1 lần sạc lên đến 8 giờ liên tục"
+      ],
+      "weaknesses": [
+        "Không có chống ồn chủ động ANC",
+        "Không có tính năng xuyên âm (Transparency mode)"
+      ]
+    },
+    {
+      "id": "ear_04",
+      "name": "Anker Soundcore Life P3i",
+      "category": "tai nghe",
+      "brand": "Anker",
+      "price_vnd": 990000,
+      "specifications": {
+        "connection": "Bluetooth 5.2",
+        "anc": "Chống ồn chủ động Hybrid ANC",
+        "battery_life": "9 giờ tai nghe (tắt ANC), 36 giờ kèm hộp sạc",
+        "microphone": "4 micro công nghệ AI Beamforming lọc giọng nói",
+        "latency": "Khoảng 70ms"
+      },
+      "strengths": [
+        "Giá dưới 1 triệu cực kỳ toàn diện: có ANC, pin 36 tiếng, sạc nhanh 10 phút nghe 2 giờ",
+        "Driver 10mm cho âm trầm mạnh mẽ đặc trưng của Soundcore",
+        "App Soundcore chuyên nghiệp với 22 cài đặt EQ sẵn"
+      ],
+      "weaknesses": [
+        "Chưa hỗ trợ codec âm thanh độ phân giải cao LDAC",
+        "Nút bấm vật lý trên tai nghe thay vì cảm ứng chạm"
+      ]
+    },
+    {
+      "id": "ear_05",
+      "name": "Sony WF-C500",
+      "category": "tai nghe",
+      "brand": "Sony",
+      "price_vnd": 1490000,
+      "specifications": {
+        "connection": "Bluetooth 5.0, hỗ trợ Fast Pair & Swift Pair",
+        "anc": "Không có ANC (cách âm nhét tai tốt)",
+        "battery_life": "10 giờ tai nghe, 20 giờ cùng hộp sạc",
+        "microphone": "1 micro mỗi bên, hỗ trợ đàm thoại rảnh tay",
+        "latency": "Khoảng 120ms"
+      },
+      "strengths": [
+        "Công nghệ nâng cấp âm thanh DSEE độc quyền của Sony phục hồi dải cao",
+        "Thời lượng pin liên tục trên tai cực khủng 10 tiếng",
+        "Thiết kế nhỏ gọn vừa vặn hốc tai, kháng nước IPX4"
+      ],
+      "weaknesses": [
+        "Không có tính năng chống ồn chủ động ANC",
+        "Hộp sạc chỉ tích thêm được 1 lần sạc đầy (tổng 20 giờ)"
+      ]
+    },
+    {
+      "id": "ear_06",
+      "name": "Marshall Minor III",
+      "category": "tai nghe",
+      "brand": "Marshall",
+      "price_vnd": 2590000,
+      "specifications": {
+        "connection": "Bluetooth 5.2",
+        "anc": "Không có ANC (thiết kế Earbuds mở)",
+        "battery_life": "5 giờ tai nghe, 25 giờ kèm hộp sạc",
+        "microphone": "Micro đàm thoại khử ồn",
+        "latency": "Khoảng 90ms"
+      },
+      "strengths": [
+        "Thiết kế vân da và logo Marshall đậm chất Rock & Roll cổ điển cực chất",
+        "Dạng tai nghe earbuds đeo lâu êm ái, không bị bí tai",
+        "Hỗ trợ sạc không dây chuẩn Qi tiện lợi"
+      ],
+      "weaknesses": [
+        "Không có chống ồn chủ động và cách âm kém nơi đông người",
+        "Chất âm thiếu sub-bass do thiết kế hở"
+      ]
+    },
+    {
+      "id": "ear_07",
+      "name": "Apple AirPods Pro 2 (USB-C)",
+      "category": "tai nghe",
+      "brand": "Apple",
+      "price_vnd": 5490000,
+      "specifications": {
+        "connection": "Bluetooth 5.3, chip Apple H2",
+        "anc": "Chống ồn chủ động ANC Pro gấp 2 lần + Chế độ thích ứng Adaptive Audio",
+        "battery_life": "6 giờ bật ANC, 30 giờ kèm hộp sạc MagSafe",
+        "microphone": "Micro kép chùm sóng + Micro hướng vào trong",
+        "latency": "Cực thấp với hệ sinh thái Apple (dưới 40ms)"
+      },
+      "strengths": [
+        "Chống ồn chủ động và chế độ xuyên âm tự nhiên số 1 thị trường",
+        "Âm thanh không gian Spatial Audio theo dõi chuyển động đầu sống động",
+        "Hộp sạc tích hợp loa tìm kiếm Find My và chip U1 định vị chính xác"
+      ],
+      "weaknesses": [
+        "Tối ưu tốt nhất cho hệ sinh thái Apple, người dùng Android bị hạn chế tính năng",
+        "Giá thành cao"
+      ]
+    },
+    {
+      "id": "ear_08",
+      "name": "Sony WH-1000XM5",
+      "category": "tai nghe",
+      "brand": "Sony",
+      "price_vnd": 7490000,
+      "specifications": {
+        "connection": "Bluetooth 5.2, LDAC, cắm dây 3.5mm",
+        "anc": "Chống ồn đỉnh cao Auto NC Optimizer với 8 micro và 2 bộ xử lý V1/QN1",
+        "battery_life": "30 giờ (bật ANC), 40 giờ (tắt ANC)",
+        "microphone": "4 micro dạng chùm sóng với thuật toán giảm ồn AI",
+        "latency": "Khoảng 50ms (chế độ game/dây)"
+      },
+      "strengths": [
+        "Tai nghe chụp tai chống ồn hàng đầu thế giới hiện nay",
+        "Chất lượng âm thanh chuẩn Hi-Res Audio với codec LDAC cao cấp",
+        "Đệm tai êm ái, thời lượng pin 30 giờ sạc 3 phút dùng 3 giờ"
+      ],
+      "weaknesses": [
+        "Thiết kế không thể gập gọn hoàn toàn như bản XM4 trước đó",
+        "Giá cao, kích thước lớn không tiện bỏ túi quần"
+      ]
+    }
+  ]
+}
